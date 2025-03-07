@@ -21,7 +21,6 @@ O projeto utiliza Selenium e PyAutoGUI para efetuar o login, selecionar unidades
 📦 Automation-Selenium
  ┣ 📜 main.py              # Script principal de automação
  ┣ 📜 config.txt           # Arquivo de configuração (URLs, horários, unidade)
- ┣ 📜 requirements.txt     # Dependências do projeto
  ┣ 📜 README.md            # Documentação do projeto
 ```
 
