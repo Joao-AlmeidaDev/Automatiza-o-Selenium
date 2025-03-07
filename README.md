@@ -1,6 +1,8 @@
-# Automatiza-o-Selenium
+# Automation-Selenium
 
-Este projeto automatiza o acesso e manutenção do site, utilizando **Selenium** e **PyAutoGUI** para realizar login, selecionar unidades e manter o navegador aberto conforme o horário de funcionamento das clínicas.
+Este projeto automatiza o acesso e a manutenção de um sistema de uma clínica. Ele foi desenvolvido para realizar o login no painel de senhas e no totem, eliminando a necessidade de um funcionário operar os equipamentos manualmente todos os dias.
+
+O projeto utiliza Selenium e PyAutoGUI para efetuar o login, selecionar unidades e manter o navegador aberto conforme o horário de funcionamento das clínicas.
 
 ## 📌 Funcionalidades
 - Login automático.
@@ -15,13 +17,13 @@ Este projeto automatiza o acesso e manutenção do site, utilizando **Selenium**
 - WebDriver (Edge)
 
 ## 📂 Estrutura do Projeto
-
-📦 MedPlacesAutomation
+```
+📦 Automation-Selenium
  ┣ 📜 main.py              # Script principal de automação
  ┣ 📜 config.txt           # Arquivo de configuração (URLs, horários, unidade)
  ┣ 📜 requirements.txt     # Dependências do projeto
  ┣ 📜 README.md            # Documentação do projeto
-
+```
 
 ## 🔧 Personalização
 - Para modificar os horários ou URLs, edite diretamente o `config.txt`.
