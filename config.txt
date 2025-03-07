@@ -1,0 +1,13 @@
+inicio=06:00
+fim=21:00
+
+email=
+senha=
+
+unidade=
+#unidade=
+
+#equipamento=painel
+equipamento=totem
+
+login_url=
